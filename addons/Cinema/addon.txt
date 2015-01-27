@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"Cinema"
+	"version"			"1"
+	"up_date"			"21th October 2013"
+	"author_name"			"Temparh"
+	"author_email"			""
+	"author_url"			""
+	"info"				"Made by: Temparh"
+	"override"			"0"
+}

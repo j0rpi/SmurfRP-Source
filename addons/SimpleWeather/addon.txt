@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"Simple Weather"
+	"version"			""
+	"up_date"			""
+	"author_name"		"disseminate"
+	"author_email"		""
+	"author_url"		""
+	"info"				""
+	"override"			"0"
+}

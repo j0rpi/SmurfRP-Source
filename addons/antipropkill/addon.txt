@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"Anti prop abuse collection"
+	"version"			"1.07"
+	"up_date"			"01/10/13"
+	"author_name"		"Dellkan"
+	"author_email"		"dellkan@hotmail.com"
+	"author_url"		"http://steamcommunity.com/id/dellkan"
+	"info"				"Utility tool. Prevent prop abuse in various forms."
+	"override"			"0"
+}

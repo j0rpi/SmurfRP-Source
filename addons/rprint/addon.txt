@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+	"name"        "rPrint"
+	"version"     "2.1"
+	"author_name" "Dan"
+	"info"        "An interactive Money Printer for DarkRP."
+	"override"    "0"
+}

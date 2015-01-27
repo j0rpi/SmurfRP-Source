@@ -1,0 +1,6 @@
+///////////////////////////////////////////////
+///// Created by Temparh
+///// 21th October 2013
+///// cl_ínit.lua
+
+include("shared.lua")
