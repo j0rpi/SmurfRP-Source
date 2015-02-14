@@ -14,8 +14,7 @@ by public.
 I don't care.
 
 # What is SmurfRP?
-It was the biggest Garry's Mod server in Scandinavia from 2013-2014. A large user database
-required ease of access. SmurfRP Remote Admin Tool was created.
+It was the biggest Garry's Mod server in Scandinavia from 2013-2014. 
 
 
 
