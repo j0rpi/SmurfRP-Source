@@ -14,7 +14,7 @@ by public.
 I don't care.
 
 # What is SmurfRP?
-It was the biggest Garry's Mod server in Scandinavia from 2013-2014. 
+It was the largest Garry's Mod server in Scandinavia from 2013-2014. 
 
 
 
