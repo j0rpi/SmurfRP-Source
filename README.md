@@ -11,7 +11,7 @@ by public.
 - Custom Cinemasystem
 
 # Can we modify it however we want and use it?
-I don't care.
+I don't care. Just don't use the name 'SmurfRP' anywhere, or use anything of my work except the code.
 
 # What is SmurfRP?
 It was the largest Garry's Mod server in Scandinavia from 2013-2014. 
